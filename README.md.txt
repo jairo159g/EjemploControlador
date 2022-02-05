@@ -1,4 +1,4 @@
-### Repositorio de ejemplo 
+# Repositorio de ejemplo 
 
 **markdown**
 
@@ -6,5 +6,5 @@
 
 1. primero
 2. segundo
-    -lista 2 elemento1 
-    -lista 2 elemento2 
+    - lista 2 elemento1 
+    - lista 2 elemento2 
